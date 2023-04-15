@@ -1,1 +1,1 @@
-# juego-de-dinosaurio-
+# Juegos-compatibles-con-dispositivos
